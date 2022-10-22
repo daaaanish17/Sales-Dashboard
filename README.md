@@ -1,4 +1,4 @@
-# Sales-Dashboard
+# Superstore-Sales-Analysis-Dashboard
 
 #### A sales dashboard that is created using powerbi.
 
