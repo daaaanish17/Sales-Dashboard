@@ -9,4 +9,4 @@
 #### Dashboard: 
 
 
-<img src="/Dashboard.JPG" alt="Dashboard Image">
+<img src="/Dashboard.png" alt="Dashboard Image">
