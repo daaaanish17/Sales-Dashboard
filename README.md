@@ -9,4 +9,4 @@
 #### Dashboard: 
 
 
-<img src="/Sales_Dashboard.JPG" alt="Recommender App Image">
+<img src="/Dashboard.JPG" alt="Dashboard Image">
